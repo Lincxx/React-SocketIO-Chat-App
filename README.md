@@ -10,8 +10,8 @@ Install Dependencies
 npm install
 ```
 
-Run Gulp
+Run Webpack
 
 ```
-gulp
+webpack
 ```
