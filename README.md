@@ -15,3 +15,9 @@ Run Webpack
 ```
 webpack
 ```
+
+Run Server
+
+```
+node server.js
+```
